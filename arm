@@ -1,0 +1,42 @@
+<html>
+  <head>
+  <meta charset="utf-8">
+  <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+  <style>
+  .a{
+  font-family: 'Oswald', sans-serif;
+  }
+  .b{
+  font-family: 'Oswald', sans-serif;
+  float:bottom;
+		margin-top:100px;
+  }
+  .c{
+		font-family: 'Oswald', sans-serif;
+		width:100%;
+		height:100px;
+		float:left,top;
+		margin-left:20px;
+		font-size: 20px;
+		}
+		.d{
+		float:left;
+		}
+  </style>
+  </head>
+  
+  <body>
+  <a href="C:\Users\Student\Desktop\new 356.html"> <div class="d"><img src="C:\Users\Student\Desktop\share_informatika.png" width="150px" height="150px"/></a>
+  </div>
+	<div class="c">
+	<h1>Информатический</h1> 
+	<h2>Справочник</h2>
+	</div>
+  <div class="b"><h1>Автоматизированное рабочее место (АРМ, рабочая станция).</h1></div>
+  <div class="a">
+  Место оператора, оборудованное всеми средствами, необходимыми для выполнения определённых функций. В системах обработки данных и учреждениях обычно АРМ — это дисплей с клавиатурой, но может использоваться также и принтер, внешние ЗУ и др.
+  </div>
+  <img src="C:\Users\Student\Desktop\07.jpg">
+  </body>
+
+</html>
